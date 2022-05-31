@@ -6,7 +6,7 @@
                    "Browser": "Google Chrome v97.0.4864.47 x64"
                 ],
    "Component": "Catalog Button",
-   "Version": 10.1.2,
+   "Version": "10.1.2",
    "Severity": "Critical",
    "Priority": "High",
    "Steps to reproduce":[
@@ -15,5 +15,5 @@
                 ],
    "Actual result": "Clicking the Catalog button does NOT redirect to the Catalog page",
    "Expected result": "Clicking the Catalog button redirects to the Catalog page.",
-   "Attachments": "link_to_picture_or_video_with_bug".
+   "Attachments": "link_to_picture_or_video_with_bug"
 }
