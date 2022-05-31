@@ -1,9 +1,9 @@
 {
-   "Summary": "Clicking the 'Go to Catalog' button on the home page does not redirect to the Catalog page."
+   "Summary": "Clicking the 'Go to Catalog' button on the home page does not redirect to the Catalog page.",
    "Project": "Goods Store Website",
    "Environment":[
-                   "OS": "Windows 8 x64",
-                   "Browser": "Google Chrome v97.0.4864.47 x64"
+                   "OS: Windows 8 x64",
+                   "Browser: Google Chrome v97.0.4864.47 x64"
                 ],
    "Component": "Catalog Button",
    "Version": "10.1.2",
