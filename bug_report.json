@@ -1,1 +1,19 @@
-
+{
+   "Summary": "Clicking the 'Go to Catalog' button on the home page does not redirect to the Catalog page."
+   "Project": "Goods Store Website",
+   "Environment":[
+                   "OS": "Windows 8 x64",
+                   "Browser": "Google Chrome v97.0.4864.47 x64"
+                ],
+   "Component": "Catalog Button",
+   "Version": 10.1.2,
+   "Severity": "Critical",
+   "Priority": "High",
+   "Steps to reproduce":[
+                   "1. Go to the main page of the site (link_to_website)",
+                   "2. Click the catalog button"
+                ],
+   "Actual result": "Clicking the Catalog button does NOT redirect to the Catalog page",
+   "Expected result": "Clicking the Catalog button redirects to the Catalog page.",
+   "Attachments": "link_to_picture_or_video_with_bug".
+}
